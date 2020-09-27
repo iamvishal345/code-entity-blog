@@ -331,4 +331,4 @@ Restart the Server. Now you will see the app will work as intended.
 
 Now whenever webpack detects that given address does not match to any file, it will simply serve the base index file and after that internal router will routes to page specified in URL.
 
-<a href="https://github.com/iamvishal345/lit-element-initial_setup" target="_blank">Git Hub Project</a>
+<a href="https://github.com/iamvishal345/lit-element-initial_setup" target="_blank"><img src="https://img.shields.io/github/forks/iamvishal345/lit-element-initial_setup?label=Fork%20Complete%20Project&style=social"></a>

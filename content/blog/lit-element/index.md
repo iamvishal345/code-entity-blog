@@ -208,4 +208,4 @@ Finally we have a working lit element project.
 
 In next part we will restructure our project and add routing on it.
 
-<a href="https://github.com/iamvishal345/lit-element-initial_setup" target="_blank">Git Hub Project</a>
+<a href="https://github.com/iamvishal345/lit-element-initial_setup" target="_blank"><img src="https://img.shields.io/github/forks/iamvishal345/lit-element-initial_setup?label=Fork%20Complete%20Project&style=social"></a>
