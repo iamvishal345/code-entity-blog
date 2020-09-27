@@ -3,7 +3,7 @@ module.exports = {
     title: `Code Entity`,
     author: {
       name: `Vishal Sharma`,
-      summary: `I lives and works in Chandigarh,India. I am a Software Engineer primarily works with JavaScript and it's frameworks.`,
+      summary: `I reside and work at Chandigarh, India. I am a Software Engineer and primarily works with JavaScript, ReactJS and NodeJS.`,
     },
     description: `Programming Blog mainly focused on JavaScript`,
     siteUrl: `https://codeentity.tech`,

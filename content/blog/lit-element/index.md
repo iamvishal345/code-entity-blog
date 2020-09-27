@@ -1,7 +1,7 @@
 ---
 title: Setting Up Lit Element Project!
 date: "2020-09-25T12:11:44.970Z"
-description: This is a post on how to set up Lit Element (Polymer 3) project.
+description: Lit Element is a simple library for creating fast, lightweight web components that work in any web page with any framework. In this article we are going to setup a Lit Element project using webpack.
 ---
 
 **Lit Element** is a simple library for creating fast, lightweight web components that work in any web page with any framework.
@@ -153,7 +153,7 @@ This will start dev server and by default will run on port 8080
 
 Now lets add some css to our project
 
-Create _App.styles_js_ file in src folder and copy following code
+Create _App.styles.js_ file in src folder and copy following code
 
 ```Javascript
 import { css } from "lit-element";
@@ -170,7 +170,7 @@ export const AppStyles = css`
 `;
 ```
 
-Import this file to App.js
+Import this file to _App.js_
 `import { AppStyles } from "./App.styles";`
 and add this to styles array
 
@@ -207,3 +207,5 @@ This is great for creating reusable independent components which we can directly
 Finally we have a working lit element project.
 
 In next part we will restructure our project and add routing on it.
+
+<a href="https://github.com/iamvishal345/lit-element-initial_setup" target="_blank">Git Hub Project</a>
